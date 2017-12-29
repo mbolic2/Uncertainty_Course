@@ -24,38 +24,48 @@ We expect participating students to bring basic knowledge and experience in
 ### Syllabus:
 #### Part I Statistical concepts required to understand uncertainty
 * Intro: Definitions and motivation
-  * 	Uncertainty, data quality, data analysis <br>
-  * 	Calibration, Precision, Accuracy, traceability, reproducibility, error <br>
-  * 	Measurement model <br>
+>Uncertainty, data quality, data analysis <br>
+Calibration, Precision, Accuracy, traceability, reproducibility, error <br>
+Measurement model
+
 * Monte Carlo methods
 > Random variable generation, Importance sampling, Metropolis-Hastings Algorithm, MCMC
+
 * Bootstrap principles
-  * 	Principles or resampling, pivoting, bootstrap for time series
+> Principles or resampling, pivoting, bootstrap for time series
+
 * Statistical intervals
-  * 	Confidence intervals for a Normal distribution, Bootstrap based statistical intervals
+> Confidence intervals for a Normal distribution, Bootstrap based statistical intervals
+
 * Bayesian analysis and inference
 
 ####  Part II Uncertainty when no data and/or with historical data is available
 * Uncertainty in Metrology, GUM
-  * 	Terminology, uncertainty quantification based on GUM
+> Terminology, uncertainty quantification based on GUM
+
 * Uncertainty propagation
-  * 	Example of uncertainty propagation for temperature, pressure and other sensors
+> Example of uncertainty propagation for temperature, pressure and other sensors
+
 * 	Sensitivity analysis
-  * 	Global sensitivity analysis, variance based method, Monte Carlo approaches, application to exploring sensitivity to parameters in the models in biomedical instrumentation
+> Global sensitivity analysis, variance based method, Monte Carlo approaches, application to exploring sensitivity to parameters in the models in biomedical instrumentation
+
 * 	Regression analysis
-  * 	Linear and non-linear fitting, Confidence intervals of the estimates
+> Linear and non-linear fitting, Confidence intervals of the estimates
+
 * 	Model calibration and parameter estimation
-  * 	Adjusting model parameters in order to improve the agreement between the model output and collected data, Regression analysis for calibration
+> Adjusting model parameters in order to improve the agreement between the model output and collected data, Regression analysis for calibration
 
 
 ####  Part III Uncertainty for real-time analysis
 * 	Bayesian inference
-  * 	Bayesian theorem, importance of prior, implementation using Markov Chain Monte Carlo, Prediction and Credible intervals
-  * Model checking
-  * Hierarchical Bayesian models
+> Bayesian theorem, importance of prior, implementation using Markov Chain Monte Carlo, Prediction and Credible intervals <br>
+Model checking <br>
+Hierarchical Bayesian models
+
 * 	Time series and HMM
 * 	Particle filtering
-  * 	State-space model, Bayesian filtering and Monte Carlo simulations, From complex probabilistic formulas to implementation
+> State-space model, Bayesian filtering and Monte Carlo simulations, From complex probabilistic formulas to implementation
+
 * 	Data and Sensor fusion
 * 	Bayesian neural networks
 
