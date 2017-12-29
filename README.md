@@ -1,5 +1,5 @@
 ## Principles of Data and Error Analysis in Engineering Measurements
-(Topics in Signal Processing) <br>
+(**Topics in Signal Processing**) <br>
 Instructor: Miodrag Bolic, University of Ottawa, Ottawa, Canada<br> www.site.uottawa.ca/~mbolic <br>
 Time and place:  Monday 10:00 - 13:00, MNO E218 <br>
 Course code: ELG 7172B (EACJ 5600) <br>
