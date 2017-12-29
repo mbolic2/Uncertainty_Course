@@ -2,7 +2,7 @@
 id: software
 name: Software
 heading: Software
-subheading: Software&#58;
+subheading: 
 image: ""
 ---
 
@@ -34,4 +34,3 @@ Here is some software you may find helpful for your projects:
 * adversarial robustness
     * [CleverHans](https://github.com/tensorflow/cleverhans)
     * [Foolbox](https://github.com/bethgelab/foolbox)
-
