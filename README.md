@@ -24,11 +24,11 @@ We expect participating students to bring basic knowledge and experience in
 ### Syllabus:
 #### Part I Statistical concepts required to understand uncertainty
 * Intro: Definitions and motivation
-  * 	Uncertainty, data quality, data analysis
-  * 	Calibration, Precision, Accuracy, traceability, reproducibility, error
-  * 	Measurement model
+  * 	Uncertainty, data quality, data analysis <br>
+  * 	Calibration, Precision, Accuracy, traceability, reproducibility, error <br>
+  * 	Measurement model <br>
 * Monte Carlo methods
-  * 	Random variable generation, Importance sampling, Metropolis-Hastings Algorithm, MCMC
+> Random variable generation, Importance sampling, Metropolis-Hastings Algorithm, MCMC
 * Bootstrap principles
   * 	Principles or resampling, pivoting, bootstrap for time series
 * Statistical intervals
