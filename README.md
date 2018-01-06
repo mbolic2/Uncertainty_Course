@@ -16,9 +16,10 @@ We expect participating students to bring basic knowledge and experience in
 * Elementary Statistics
 
 **Grading:** For collecting the credits the student are expected to
-* assignments (25% of the grade),
-* term project (25% of the grade)
-* final exam (50% of the grade)
+* assignments (45% of the grade) + optional up 25% bonus points for small projects/literature reviews,
+* scribing(15% of the grade)
+* final exam (40% of the grade)
+
 
 
 ### Syllabus:
