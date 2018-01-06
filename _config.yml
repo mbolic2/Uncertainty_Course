@@ -1,6 +1,6 @@
 #theme: jekyll-theme-slate
-title: CSC2541 Scalable and Flexible Models of Uncertainty (Fall 2017)
-description: CSC2541 course website
+title:  ELG 7172B (EACJ 5600) Principles of Data and Error Analysis in Engineering Measurements
+description: ELG7172B course website
 baseurl: ''
 sass:
   sass_dir: /assets/_sass
@@ -13,4 +13,3 @@ exclude:
   - README.md
   - LICENSE.txt
   - CNAME
-
