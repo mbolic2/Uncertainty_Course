@@ -17,13 +17,13 @@ Course code: ELG 7172B (EACJ 5600) <br>
 ### Calendar Style Description:
 Uncertainty, Uncertainty propagation, Bayesian Inference, Bayesian Filtering, Data fusion, Metrology, Measurement Science, Error Analysis, Measures of Agreement, Data Quality, Data quality index.  Case studies will be drawn from various fields including biomedical instrumentation, sensors and signal processing.
 
-**Prerequisites:** Digital signal processing course
+**Prerequisites:** 
 We expect participating students to bring basic knowledge and experience in
 * Programming using Python
 * Elementary Probability
 * Elementary Statistics
 
 **Grading:** For collecting the credits the student are expected to
-* assignments (25% of the grade),
-* term project (25% of the grade)
-* final exam (50% of the grade)
+* assignments (45% of the grade)+optional up 25% bonus points for small projects/literature reviews,
+* scribing(15% of the grade)
+* final exam (40% of the grade)
